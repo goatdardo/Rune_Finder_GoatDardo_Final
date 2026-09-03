@@ -1,0 +1,29 @@
+{
+  "selectedRunes": [],
+  "autoSortFamilies": [
+    "Lightning",
+    "Hitstreak",
+    "Slam"
+  ],
+  "highlightEnabled": true,
+  "highlightColor": -10496,
+  "highlightOpacity": 0.35,
+  "autoPickupEnabled": false,
+  "pickupDelay": 150,
+  "sortRarity": "Rare",
+  "sourceChests": [],
+  "destinationChests": [
+    "-30,69,-1",
+    "-28,69,-1",
+    "-27,69,-1",
+    "-23,69,0",
+    "-25,70,5"
+  ],
+  "runeDestinations": {
+    "Lightning": "-30,69,-1",
+    "Hitstreak": "-28,69,-1",
+    "Slam": "-27,69,-1"
+  },
+  "sorterMovementMode": "WALK",
+  "sorterHomeName": "base"
+}

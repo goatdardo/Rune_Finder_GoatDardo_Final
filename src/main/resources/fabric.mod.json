@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "runefinder",
+  "version": "${version}",
+  "name": "Rune Finder GoatDardo",
+  "description": "Find, highlight and automatically pick up selected custom runes.",
+  "authors": [
+    "GoatDardo"
+  ],
+  "environment": "client",
+
+  "entrypoints": {
+    "client": [
+      "com.goatdardo.runefinder.RuneFinderClient"
+    ],
+    "modmenu": [
+      "com.goatdardo.runefinder.ModMenuIntegration"
+    ]
+  },
+
+  "mixins": [
+    "runefinder.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "fabric-api": "*"
+  },
+
+  "suggests": {
+    "modmenu": "*"
+  }
+}

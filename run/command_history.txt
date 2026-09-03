@@ -1,0 +1,22 @@
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:1"}}] 1
+/data get entity @s SelectedItem
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Slam:1"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:2"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:3"}}] 1
+/data get entity @s SelectedItem
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:1"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:2"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:3"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Slam:1"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Slam:2"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Slam:3"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Bleed:1"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Bleed:2"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Execute:1"}}] 1
+/give @s minecraft:paper[custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Lightning:1"}}] 1
+/give @s minecraft:paper[custom_model_data={floats:[1542.0]}] 1
+/give @s minecraft:paper[custom_model_data={floats:[1543.0]}] 1
+/give @s minecraft:paper[custom_model_data={floats:[1544.0]}] 1
+/give @s minecraft:paper[custom_model_data={floats:[1540.0]}] 1
+/give @s minecraft:paper[custom_model_data={floats:[1545.0]}] 1
+/give @p minecraft:paper[minecraft:custom_data={PublicBukkitValues:{"scrptr:rune_enchant":"Hitstreak:1"}}] 1
